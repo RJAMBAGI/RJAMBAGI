@@ -26,10 +26,8 @@ Email Me 👉 ✉️ \*\*jambagirekha.com\*\* For Collaboration/Project or Anyth
 
 
 
-
-# 🌐 Socials:
-
-\[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](rekha-jambagi-a6aa6435a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jambagirekha@gmail.com) 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rekha-jambagi-a6aa6435a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jambagirekha@gmail.com) 
 
 
 <!-- Snake Game Repo View -->
