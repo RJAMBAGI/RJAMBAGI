@@ -16,7 +16,7 @@ Email Me 👉 ✉️ \*\*jambagirekha.com\*\* For Collaboration/Project or Anyth
 
 \- 💬 \*\*Ask me about:\*\* Collaboration, Tech Support
 
-\- 📫 \*\*How to reach me:\*\* jamnagirekha@gmail.com
+\- 📫 \*\*How to reach me:\*\* jambagirekha@gmail.com
 
 \- ⚡ \*\*Fun fact:\*\* I Love Tech and Tech Love Me
 
